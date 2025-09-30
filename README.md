@@ -3,6 +3,8 @@ Zelda 64: Recompiled is a project that uses [N64: Recompiled](https://github.com
 
 ### [Check out the latest release here](https://github.com/Mr-Wiseguy/Zelda64Recomp/releases/latest).
 
+Join the [N64: Recompiled Community Discord](https://discord.gg/AWZThJ4dPf) to discuss this and other N64: Recompiled projects!
+
 ### **This repository and its releases do not contain game assets. The original game is required to build or run this project.**
 
 <div align="left" valign="middle">
@@ -48,7 +50,7 @@ A GPU supporting Direct3D 12.0 (Shader Model 6), Vulkan 1.2, or Metal Argument B
 * Intel HD 510 (Skylake)
 * A Mac with Apple Silicon or an Intel 7th Gen CPU with MacOS 13.0+
 
-On x86-64 PCs, a CPU supporting the AVX instruction set is also required (Intel Core 2000 series or AMD Bulldozer and newer). ARM64 builds will work on any ARM64 CPU.
+On x86-64 PCs, a CPU supporting the SSE4.1 instruction set is also required (Intel Core 2 Penryn series or AMD Bulldozer and newer). ARM64 builds will work on any ARM64 CPU.
 
 If you have issues with crashes on startup, make sure your graphics drivers are fully up to date. 
 
